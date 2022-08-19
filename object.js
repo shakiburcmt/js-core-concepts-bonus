@@ -21,7 +21,7 @@ student.family();
 // object er property er man array hote pare abar sei array er moddhe object thakte pare
 //
 
-// isArray na holeo array er moto kichuta hobe nicher niyome,, its call array like object
+// isArray na holeo array er moto kichuta hobe nicher niyome,, its call array like object,tobe ekhane push pop hobena, for of hobe
 const products = {
     '0': 12,
     '1': 13,
